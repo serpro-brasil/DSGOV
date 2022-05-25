@@ -6,5 +6,5 @@ Repositório Oficial: a definir
 
 Links:
 -----
-* [Portal](https://dsgov.estaleiro.serpro.gov.br/ds/home): Central de acesso as informações
+* [Portal](https://www.gov.br/ds): Central de acesso as informações
 
